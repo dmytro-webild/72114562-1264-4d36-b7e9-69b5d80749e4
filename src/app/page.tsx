@@ -224,15 +224,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Sarah K.",          role: "Local Resident",          testimonial: "Excellent service and delicious fried fish. I highly recommend this restaurant.",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-counter_1170-668.jpg",          imageAlt: "Customer Sarah K."},
+          id: "1",          name: "Sarah K.",          role: "Local Resident",          testimonial: "Excellent service and delicious fried fish. I highly recommend this restaurant.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781282603340-7d4rnwx3.jpg",          imageAlt: "Customer Sarah K."},
         {
-          id: "2",          name: "Ahmed B.",          role: "Satisfied Diner",          testimonial: "It was our first visit and we were very satisfied. Great food and excellent service.",          imageSrc: "http://img.b2bpic.net/free-photo/professional-barber-man-apron-looking-front-smiling-showing-thumbs-up-standing-orange-wall_141793-96783.jpg",          imageAlt: "Customer Ahmed B."},
+          id: "2",          name: "Ahmed B.",          role: "Satisfied Diner",          testimonial: "It was our first visit and we were very satisfied. Great food and excellent service.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781282633174-qnukf0lb.jpg",          imageAlt: "Customer Ahmed B."},
         {
-          id: "3",          name: "Fatima Z.",          role: "Food Enthusiast",          testimonial: "Fresh products, impeccable service, and excellent value for money.",          imageSrc: "http://img.b2bpic.net/free-photo/ok-sign-showed-by-attractive-woman_329181-13410.jpg",          imageAlt: "Customer Fatima Z."},
+          id: "3",          name: "Fatima Z.",          role: "Food Enthusiast",          testimonial: "Fresh products, impeccable service, and excellent value for money.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781282649096-gl2pcfa7.jpg",          imageAlt: "Customer Fatima Z."},
         {
-          id: "4",          name: "Youssef M.",          role: "Regular Guest",          testimonial: "Fresh fish at reasonable prices. A restaurant worth discovering.",          imageSrc: "http://img.b2bpic.net/free-photo/group-young-friends-having-wine-together_23-2148454148.jpg",          imageAlt: "Customer Youssef M."},
+          id: "4",          name: "Youssef M.",          role: "Regular Guest",          testimonial: "Fresh fish at reasonable prices. A restaurant worth discovering.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781282677955-xwqcjfwv.jpg",          imageAlt: "Customer Youssef M."},
         {
-          id: "5",          name: "Nadia L.",          role: "Happy Customer",          testimonial: "Delicious food, friendly staff, and excellent service.",          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-paying-with-her-phone-via-contactless-payment-while-having-lunch-with-boyfriend-bar_637285-647.jpg",          imageAlt: "Customer Nadia L."},
+          id: "5",          name: "Nadia L.",          role: "Happy Customer",          testimonial: "Delicious food, friendly staff, and excellent service.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781282708501-4a25xajm.jpg",          imageAlt: "Customer Nadia L."},
       ]}
       title="What Our Guests Say"
       description="Hear from our valued customers about their memorable dining experiences at Ritaj Dar El Hout."
