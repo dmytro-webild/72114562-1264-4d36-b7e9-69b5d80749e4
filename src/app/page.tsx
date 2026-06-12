@@ -145,18 +145,18 @@ export default function LandingPage() {
           title: "Catering Services",          description: "Elevate your events with our exquisite seafood catering, tailored to impress your guests.",          icon: Flame,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg",              imageAlt: "Catering food display"},
+              imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg?_wi=1",              imageAlt: "Catering food display"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg",              imageAlt: "Chef preparing catering dishes"},
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg?_wi=1",              imageAlt: "Chef preparing catering dishes"},
           ]
         },
         {
           title: "Halal Food",          description: "All our dishes are prepared following strict Halal guidelines, ensuring a permissible dining experience.",          icon: Wheat,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg",              imageAlt: "Halal food preparation"},
+              imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg?_wi=1",              imageAlt: "Halal food preparation"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg",              imageAlt: "Halal certification symbol"},
+              imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg?_wi=1",              imageAlt: "Halal certification symbol"},
           ]
         },
       ]}
@@ -175,15 +175,15 @@ export default function LandingPage() {
         {
           id: "menu-1",          name: "Menu Page 1",          price: "See in Restaurant",          variant: "Moroccan Style",          imageSrc: "http://img.b2bpic.net/free-photo/marmelades-with-glass-tea-metallic-platter-top-view_114579-13002.jpg",          imageAlt: "First page of the menu"},
         {
-          id: "menu-2",          name: "Menu Page 2",          price: "See in Restaurant",          variant: "Fresh Seafood",          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg",          imageAlt: "Second page of the menu"},
+          id: "menu-2",          name: "Menu Page 2",          price: "See in Restaurant",          variant: "Fresh Seafood",          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg?_wi=2",          imageAlt: "Second page of the menu"},
         {
-          id: "menu-3",          name: "Menu Page 3",          price: "See in Restaurant",          variant: "Special Dishes",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg",          imageAlt: "Third page of the menu"},
+          id: "menu-3",          name: "Menu Page 3",          price: "See in Restaurant",          variant: "Special Dishes",          imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg?_wi=2",          imageAlt: "Third page of the menu"},
         {
           id: "menu-4",          name: "Menu Page 4",          price: "See in Restaurant",          variant: "Grilled Options",          imageSrc: "http://img.b2bpic.net/free-photo/male-chef-holding-blackboard-white-uniform-looking-shocked_176474-10562.jpg",          imageAlt: "Fourth page of the menu"},
         {
-          id: "menu-5",          name: "Menu Page 5",          price: "See in Restaurant",          variant: "Desserts & Drinks",          imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg",          imageAlt: "Fifth page of the menu"},
+          id: "menu-5",          name: "Menu Page 5",          price: "See in Restaurant",          variant: "Desserts & Drinks",          imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg?_wi=2",          imageAlt: "Fifth page of the menu"},
         {
-          id: "menu-6",          name: "Menu Page 6",          price: "See in Restaurant",          variant: "Chef's Recommendations",          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg",          imageAlt: "Sixth page of the menu"},
+          id: "menu-6",          name: "Menu Page 6",          price: "See in Restaurant",          variant: "Chef's Recommendations",          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg?_wi=2",          imageAlt: "Sixth page of the menu"},
       ]}
       title="Our Exquisite Menu"
       description="Discover a delightful array of fresh seafood dishes, expertly prepared to tantalize your taste buds. Our menu is crafted to offer exceptional taste and value, ready for your uploads."
