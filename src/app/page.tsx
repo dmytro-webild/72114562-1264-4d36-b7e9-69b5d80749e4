@@ -303,9 +303,9 @@ export default function LandingPage() {
           title: "Table Reservations",          description: "Secure your spot effortlessly. Book a table online or by phone for a guaranteed dining experience.",          icon: CalendarCheck,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-playing-with-smartphone_23-2149663589.jpg",              imageAlt: "Phone for table reservation"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781280575311-plxuwapr.jpg",              imageAlt: "Phone for table reservation"},
             {
-              imageSrc: "http://img.b2bpic.net/free-vector/flat-web-button-set_23-2147946983.jpg",              imageAlt: "Online booking system"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781280681760-ejbjfpwj.jpg",              imageAlt: "Online booking system"},
           ]
         },
       ]}
