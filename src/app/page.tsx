@@ -90,7 +90,7 @@ export default function LandingPage() {
           href: "tel:+212661484172",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg?_wi=1"
       imageAlt="Fresh Seafood Display at Ritaj Dar El Hout"
       showDimOverlay={true}
     />
@@ -119,15 +119,15 @@ export default function LandingPage() {
           icon: Fish,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/raw-fish-market-counter_1398-2418.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/raw-fish-market-counter_1398-2418.jpg?_wi=1",
               imageAlt: "Freshly caught fish on ice",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/closeup-fish-near-crab-legs-ice_181624-4131.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/closeup-fish-near-crab-legs-ice_181624-4131.jpg?_wi=1",
               imageAlt: "Chef selecting fresh fish",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg?_wi=2",
           imageAlt: "fresh fish market display",
         },
         {
@@ -136,15 +136,15 @@ export default function LandingPage() {
           icon: UserCheck,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/two-happy-female-colleagues-using-tablet-pc-cafe_1262-12563.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/two-happy-female-colleagues-using-tablet-pc-cafe_1262-12563.jpg?_wi=1",
               imageAlt: "Waiter serving food",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/internationals-people-standing-cafe-with-shopping-bags_1157-31449.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/internationals-people-standing-cafe-with-shopping-bags_1157-31449.jpg?_wi=1",
               imageAlt: "Restaurant staff greeting guests",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/smiley-friends-eating-lunch-together_23-2148451631.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiley-friends-eating-lunch-together_23-2148451631.jpg?_wi=1",
           imageAlt: "fresh fish market display",
         },
         {
@@ -153,7 +153,7 @@ export default function LandingPage() {
           icon: Home,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/children-having-lemonade-stand_23-2149398372.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/children-having-lemonade-stand_23-2149398372.jpg?_wi=1",
               imageAlt: "Family dining happily",
             },
             {
@@ -212,7 +212,7 @@ export default function LandingPage() {
               imageAlt: "Guests enjoying dinner",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/marmelades-with-glass-tea-metallic-platter-top-view_114579-13002.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/marmelades-with-glass-tea-metallic-platter-top-view_114579-13002.jpg?_wi=1",
           imageAlt: "fresh fish market display",
         },
         {
@@ -221,15 +221,15 @@ export default function LandingPage() {
           icon: Flame,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg?_wi=1",
               imageAlt: "Catering food display",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg?_wi=1",
               imageAlt: "Chef preparing catering dishes",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/male-chef-holding-blackboard-white-uniform-looking-shocked_176474-10562.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/male-chef-holding-blackboard-white-uniform-looking-shocked_176474-10562.jpg?_wi=1",
           imageAlt: "fresh fish market display",
         },
         {
@@ -238,15 +238,15 @@ export default function LandingPage() {
           icon: Wheat,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg?_wi=1",
               imageAlt: "Halal food preparation",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg?_wi=1",
               imageAlt: "Halal certification symbol",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-3920.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-3920.jpg?_wi=1",
           imageAlt: "fresh fish market display",
         },
       ]}
@@ -267,7 +267,7 @@ export default function LandingPage() {
           name: "Menu Page 1",
           price: "See in Restaurant",
           variant: "Moroccan Style",
-          imageSrc: "http://img.b2bpic.net/free-photo/marmelades-with-glass-tea-metallic-platter-top-view_114579-13002.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/marmelades-with-glass-tea-metallic-platter-top-view_114579-13002.jpg?_wi=2",
           imageAlt: "First page of the menu",
         },
         {
@@ -275,7 +275,7 @@ export default function LandingPage() {
           name: "Menu Page 2",
           price: "See in Restaurant",
           variant: "Fresh Seafood",
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-round-wooden-plate-with-different-kinds-square-shaped-sweets-nuts_181624-1588.jpg?_wi=2",
           imageAlt: "Second page of the menu",
         },
         {
@@ -283,7 +283,7 @@ export default function LandingPage() {
           name: "Menu Page 3",
           price: "See in Restaurant",
           variant: "Special Dishes",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-round-platter-steel-fork-dinner-knife-notebook-black-table_140725-63597.jpg?_wi=2",
           imageAlt: "Third page of the menu",
         },
         {
@@ -291,7 +291,7 @@ export default function LandingPage() {
           name: "Menu Page 4",
           price: "See in Restaurant",
           variant: "Grilled Options",
-          imageSrc: "http://img.b2bpic.net/free-photo/male-chef-holding-blackboard-white-uniform-looking-shocked_176474-10562.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/male-chef-holding-blackboard-white-uniform-looking-shocked_176474-10562.jpg?_wi=2",
           imageAlt: "Fourth page of the menu",
         },
         {
@@ -299,7 +299,7 @@ export default function LandingPage() {
           name: "Menu Page 5",
           price: "See in Restaurant",
           variant: "Desserts & Drinks",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg?_wi=2",
           imageAlt: "Fifth page of the menu",
         },
         {
@@ -307,7 +307,7 @@ export default function LandingPage() {
           name: "Menu Page 6",
           price: "See in Restaurant",
           variant: "Chef's Recommendations",
-          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg?_wi=2",
           imageAlt: "Sixth page of the menu",
         },
       ]}
@@ -328,7 +328,7 @@ export default function LandingPage() {
           name: "Restaurant Interior",
           price: "Ambiance",
           variant: "Elegant",
-          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-3920.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-3920.jpg?_wi=2",
           imageAlt: "Interior view of Ritaj Dar El Hout",
         },
         {
@@ -457,7 +457,7 @@ export default function LandingPage() {
               imageAlt: "People dining in restaurant",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg?_wi=3",
           imageAlt: "restaurant interior elegant dining",
         },
         {
@@ -474,7 +474,7 @@ export default function LandingPage() {
               imageAlt: "Customer picking up order",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/raw-fish-market-counter_1398-2418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/raw-fish-market-counter_1398-2418.jpg?_wi=2",
           imageAlt: "restaurant interior elegant dining",
         },
         {
@@ -491,7 +491,7 @@ export default function LandingPage() {
               imageAlt: "Delivery driver at doorstep",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-fish-near-crab-legs-ice_181624-4131.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-fish-near-crab-legs-ice_181624-4131.jpg?_wi=2",
           imageAlt: "restaurant interior elegant dining",
         },
         {
@@ -508,7 +508,7 @@ export default function LandingPage() {
               imageAlt: "Delivery person with mask",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/two-happy-female-colleagues-using-tablet-pc-cafe_1262-12563.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-happy-female-colleagues-using-tablet-pc-cafe_1262-12563.jpg?_wi=2",
           imageAlt: "restaurant interior elegant dining",
         },
         {
@@ -525,7 +525,7 @@ export default function LandingPage() {
               imageAlt: "Handing food to car window",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/internationals-people-standing-cafe-with-shopping-bags_1157-31449.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/internationals-people-standing-cafe-with-shopping-bags_1157-31449.jpg?_wi=2",
           imageAlt: "restaurant interior elegant dining",
         },
         {
@@ -542,7 +542,7 @@ export default function LandingPage() {
               imageAlt: "Catering chef preparing food",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/smiley-friends-eating-lunch-together_23-2148451631.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiley-friends-eating-lunch-together_23-2148451631.jpg?_wi=2",
           imageAlt: "restaurant interior elegant dining",
         },
         {
@@ -559,7 +559,7 @@ export default function LandingPage() {
               imageAlt: "Online booking system",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/children-having-lemonade-stand_23-2149398372.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/children-having-lemonade-stand_23-2149398372.jpg?_wi=2",
           imageAlt: "restaurant interior elegant dining",
         },
       ]}
