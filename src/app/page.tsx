@@ -154,9 +154,9 @@ export default function LandingPage() {
           title: "Halal Food",          description: "All our dishes are prepared following strict Halal guidelines, ensuring a permissible dining experience.",          icon: Wheat,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/top-close-up-view-cake-white-notebook-appetizing-cake-with-grapes_140725-71872.jpg?_wi=1",              imageAlt: "Halal food preparation"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781280312046-qietgggt.jpg",              imageAlt: "Halal food preparation"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-burger-with-mock-up-clipboard_23-2148235028.jpg?_wi=1",              imageAlt: "Halal certification symbol"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781280406448-4ojwigid.jpg",              imageAlt: "Halal certification symbol"},
           ]
         },
       ]}
