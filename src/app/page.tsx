@@ -62,7 +62,7 @@ export default function LandingPage() {
         {
           text: "View Menu",          href: "#menu"},
         {
-          text: "Reserve a Table",          href: "#contact"},
+          text: "Reserve a Table",          href: "https://api.whatsapp.com/send/?phone=212661484172&text=Hello,%20I%20would%20like%20to%20reserve%20a%20table."},
         {
           text: "Call Now",          href: "tel:+212661484172"},
       ]}
