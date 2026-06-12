@@ -195,7 +195,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "gallery-1",          name: "Restaurant Interior",          price: "Ambiance",          variant: "Elegant",          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-3920.jpg",          imageAlt: "Interior view of Ritaj Dar El Hout"
+          id: "gallery-1",          name: "Restaurant Interior",          price: "Ambiance",          variant: "Elegant",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3F2geNU6UK8Df9KPKbFFj4GCDjG/uploaded-1781289641267-xdz9553r.jpg",          imageAlt: "Interior view of Ritaj Dar El Hout"
         },
         {
           id: "gallery-2",          name: "Fresh Fish Display",          price: "Quality",          variant: "Daily Catch",          imageSrc: "http://img.b2bpic.net/free-photo/pieces-raw-steak-from-fresh-salmon-lying-ice-counter_169016-36250.jpg",          imageAlt: "Display of fresh fish on ice"
