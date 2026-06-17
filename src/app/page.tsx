@@ -407,7 +407,7 @@ export default function LandingPage() {
               label: "+212 661 484 172",              href: "tel:+212661484172"
             },
             {
-              label: "Ritajdarelhout@gmail.com",              href: "mailto:Ritajdarelhout@gmail.com"
+              label: "Ritajdarelhout@gmail.com",              href: ""
             },
             {
               label: "WhatsApp",              href: "https://wa.me/212661484172"
