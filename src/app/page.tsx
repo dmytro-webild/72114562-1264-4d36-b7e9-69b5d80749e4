@@ -363,9 +363,6 @@ export default function LandingPage() {
           text: "WhatsApp Us",          href: "https://wa.me/212661484172"
         },
         {
-          text: "Get Directions",          href: "https://www.google.com/maps/search/?api=1&query=Naim+3-4,+Number+318,+Route+Rabat-F%C3%A8s,+between+Atacadao+Roundabout+and+Bridia+Roundabout,+Meknes,+Morocco"
-        },
-        {
           text: "Call Us",          href: "tel:+212661484172"
         },
       ]}
