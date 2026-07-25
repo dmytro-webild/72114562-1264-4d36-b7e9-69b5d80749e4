@@ -39,7 +39,7 @@ export default function LandingPage() {
       ]}
       buttonAnimation="blur-reveal"
       buttonContainerClassName="flex justify-center mt-8"
-      buttonClassName="min-w-[280px] px-10 py-5 text-xl lg:text-2xl bg-primary-cta text-primary-cta-text font-bold rounded-lg shadow-2xl hover:shadow-primary-cta/50 transition-all duration-300 transform hover:scale-105"
+      buttonClassName="min-w-[320px] px-[50px] py-[20px] text-[20px] bg-[#1a2f5e] text-[#ffffff] font-bold rounded-[14px] shadow-[0_0_20px_rgba(26,47,94,0.4)] transition-all duration-300 hover:bg-[#254284] hover:scale-105"
       imageSrc="http://img.b2bpic.net/free-photo/fish-with-herbs-lemon-slice-narsharab_140725-6623.jpg"
       imageAlt="Fresh Seafood Display at Ritaj Dar El Hout"
       showDimOverlay={true}
