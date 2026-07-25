@@ -363,7 +363,7 @@ export default function LandingPage() {
           text: "WhatsApp Us",          href: "https://wa.me/212661484172"
         },
         {
-          text: "Call Us",          href: "tel:+212661484172"
+          text: "Call Us",          href: "+212661484172"
         },
       ]}
     />
